@@ -1,13 +1,13 @@
 
   ## GSSOC(24) Badges 🪶
-<div style='display:flex; align-items:center; gap: 10px;' align='center'>
-  
-
-<img src="![Screenshot 2025-06-27 012439](https://github.com/user-attachments/assets/b6cc6e18-d5e6-443d-aa2c-d9b69ef797be)" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
- 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/b158df7c-3250-4e8d-bddb-f96353a62965" alt="Image 1" width="300px" />
+  <img src="https://github.com/user-attachments/assets/f59fdba1-8bf7-44d2-8a55-b808150ff13d" alt="Image 2" width="330px" />
+  <img src="https://github.com/user-attachments/assets/b79e0ea4-d72c-4a5b-9505-0e2958a4e063" alt="Image 3" width="300px" />
 </div>
+
+
+
 
 <!---
 diyaaa19/diyaaa19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
